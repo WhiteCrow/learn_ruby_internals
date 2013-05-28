@@ -1,3 +1,5 @@
+#will parse codes to AST
+
 require 'ripper'
 require 'pp'
 code = <<STR
